@@ -52,11 +52,6 @@ http.get(url, function(res) {
 	console.log('获取课程数据出错!');
 });
 
-/*[{
- 	chapterTitle:'',
- 	videos:[
- 		title:'',
- 		id:''
- 	]
- }]*/
+
+
 
